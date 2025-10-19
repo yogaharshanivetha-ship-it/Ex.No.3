@@ -23,6 +23,7 @@ Procedure:
 
 ### Conclusion 
 
+[exp 3.pdf](https://github.com/user-attachments/files/22990008/exp.3.pdf)
 
 Result: The various types of Prompts are executed successfully with generated the report.
 
